@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JFS-Project-Create-Simple-Spring-Boot-Project.iml" filepath="$PROJECT_DIR$/.idea/JFS-Project-Create-Simple-Spring-Boot-Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Simple-Spring-Boot-Project/Simple-Spring-Boot-Project.iml" filepath="$PROJECT_DIR$/Simple-Spring-Boot-Project/Simple-Spring-Boot-Project.iml" />
     </modules>
   </component>
 </project>
